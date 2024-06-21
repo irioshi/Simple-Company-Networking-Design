@@ -2,7 +2,9 @@
  This case study illustrates the design of a network infrastructure for Initech's new branch. Featured are separate VLANs for Admin/IT, Finance/HR, and Customer Service/Reception departments, Cisco products, automatic IPv4 address assignment, and inter-department communication.
 
 # Networking Case Study:  Unifying Departments at a Company's Branch
-**Introduction:**
+
+
+## Introduction
 Initech, a rapidly expanding enterprise headquartered in Eastern Australia, has a global customer base exceeding 2 million. Specializing in the buying and selling of food items, the company is now poised to establish a branch near the local village of Bonalbo. In this endeavor, the company seeks the expertise of IT professionals to architect and implement a network infrastructure for the new branch. This network is envisioned to function autonomously from the HQ network, catering to the specific operational needs of the branch's three departments: Admin/IT, Finance/HR, and Customer Service/Reception.
 
 **Project Objectives:**
